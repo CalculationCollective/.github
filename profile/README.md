@@ -1,5 +1,9 @@
 # CalculationCollective
 
+## About
+
+This is an organisation dedicated to making calculators in as many programming languages as possible.
+
 ## Definition of a Calculator
 
 The following functionality must be given for a calculator to be valid.
