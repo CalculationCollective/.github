@@ -49,7 +49,7 @@ The calculation result also needs to be correct by regular mathematical standard
 
 | Project Name     | Language                |  Developer      |
 |------------------|-------------------------|-----------------|
-|                  |                         |                 |
+| HSCalculator     | Haskell                 | @bergerkevin    |
 
 ## Completed Calculators
 
