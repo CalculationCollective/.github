@@ -26,7 +26,6 @@ The calculation result also needs to be correct by regular mathematical standard
 | SHCalculator     | Bash                    |
 | PS1Calculator    | PowerShell              |
 | RBCalculator     | Ruby                    |
-| TBCalculator     | TypeScript              |
 | JAVACalculator   | Java                    |
 | LUACalculator    | Lua                     |
 | PHPCalculator    | PHP                     |
@@ -60,5 +59,7 @@ The calculation result also needs to be correct by regular mathematical standard
 | RSCalculator    | Rust                |
 | NJSCalculator   | JavaScript (Nodejs) |
 | JSCalculator    | JavaScript          |
+| TSCalculator    | TypeScript          |
+
  
 
