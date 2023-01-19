@@ -35,7 +35,6 @@ The calculation result also needs to be correct by regular mathematical standard
 | VBSCalculator    | Visual Basic Script     |
 | SBCalculator     | Small Basic             |
 | PASCalculator    | Pascal                  |
-| HSCalculator     | Haskell                 |
 | APLCalculator    | A Programming Language  | 
 | LSPCalculator    | Lisp                    |
 | BASICCalculator  | Basic                   |
