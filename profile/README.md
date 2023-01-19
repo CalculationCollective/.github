@@ -14,7 +14,7 @@ The following functionality must be given for a calculator to be valid.
 - Division
 
 Additionally for a calculator to be considered a working calculator the user needs to be able to input at least 2 numbers and receive the calculation result.
-The calculation result also needs to be correct by regular mathematical standards.
+The calculation result also needs to be correct by regular mathematical standards. The calculator also needs to work with at least 1 decimal place both as input and output.
 
 **EVAL IS NOT ALLOWED**
 
