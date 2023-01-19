@@ -47,6 +47,7 @@ The calculation result also needs to be correct by regular mathematical standard
 | LSPCalculator    | Lisp                    |
 | BASICCalculator  | Basic                   |
 | RCalculator      | R                       |
+| GOCalculator      | Go                      |
 
 ## Active Calculators
 
@@ -58,4 +59,4 @@ The calculation result also needs to be correct by regular mathematical standard
 
 | Project Name    | Language            |
 |-----------------|---------------------|
- |                 |                     |
+|                 |                     |
