@@ -28,7 +28,6 @@ The calculation result also needs to be correct by regular mathematical standard
 | RBCalculator     | Ruby                    |
 | TBCalculator     | TypeScript              |
 | JAVACalculator   | Java                    |
-| FSCalculator     | F#                      |
 | LUACalculator    | Lua                     |
 | PHPCalculator    | PHP                     |
 | PLCalculator     | Perl                    |
@@ -57,6 +56,7 @@ The calculation result also needs to be correct by regular mathematical standard
 | CSCalculator    | C#                  |
 | CPPCalculator   | C++                 |
 | CCalculator     | C                   |
+| FSCalculator    | F#                  |
 | GOCalculator    | Go                  |
 | NJSCalculator   | JavaScript (Nodejs) |
 | JSCalculator    | JavaScript          |
