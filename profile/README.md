@@ -23,7 +23,6 @@ The calculation result also needs to be correct by regular mathematical standard
 | Project Name     | Language                |
 |------------------|-------------------------|
 | PyCalculator     | Python                  |
-| PS1Calculator    | PowerShell              |
 | RBCalculator     | Ruby                    |
 | JAVACalculator   | Java                    |
 | LUACalculator    | Lua                     |
@@ -49,6 +48,7 @@ The calculation result also needs to be correct by regular mathematical standard
 
 | Project Name    | Language            |
 |-----------------|---------------------|
+| SHCalculator    | Bash                |
 | CSCalculator    | C#                  |
 | CPPCalculator   | C++                 |
 | CCalculator     | C                   |
@@ -58,7 +58,9 @@ The calculation result also needs to be correct by regular mathematical standard
 | NJSCalculator   | JavaScript (Nodejs) |
 | JSCalculator    | JavaScript          |
 | TSCalculator    | TypeScript          |
-| SHCalculator    | Bash                |
+| PS1Calculator   | PowerShell          |
+
+
 
  
 
