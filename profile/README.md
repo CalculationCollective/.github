@@ -35,8 +35,35 @@ The calculation result also needs to be correct by regular mathematical standard
 | PASCalculator    | Pascal                  |
 | APLCalculator    | A Programming Language  | 
 | LSPCalculator    | Lisp                    |
-| BASICCalculator  | Basic                   |
+| BASCalculator    | Basic                   |
 | RCalculator      | R                       |
+| ASCalculator     | A#                      |
+| ABCCalculator    | ABC                     |
+| AWKCalculator    | AWK                     |
+| ALGOLCalculator  | ALGOL                   |
+| STCalculator     | Smalltalk               |
+| HCCalculator     | HolyC                   |
+| GCODECalculator  | g-code                  |
+| PYXCalculator    | Cython                  |
+| COFFEECalculator | CoffeScript             |
+| CMMCalculator    | C--                     |
+| CARBONCalculator | Carbon                  |
+| DCalculator      | D                       |
+| ECalculator      | E                       |
+| FCalculator      | Fortran                 |
+| GCalculator      | GRASS                   |
+| ANGELSCRIPTCalculator | ANGLESCRIPT        |
+| APPLESCRIPTCalculator | Applescript        |
+| ARCCalculator    | ARC                     |
+| AHKCalculator    | AutoHotKey              |
+| BFCalculator     | Beef                    |
+| BECalculator     | Berry                   |
+| BICEPCalculator  | Bicep                   |
+| B3DCalculator    | BlitzBasic              |
+| BOOCalculator    | Boo                     |
+| BPLCalculator    | Boogie                  |
+| COBCalculator    | COBOL                   |
+| CAPNPCalculator  | Cap'n Proto             |
 
 ## Active Calculators
 
