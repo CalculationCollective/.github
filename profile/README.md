@@ -22,7 +22,6 @@ The calculation result also needs to be correct by regular mathematical standard
 
 | Project Name     | Language                |
 |------------------|-------------------------|
-| CPPCalculator    | C++                     |
 | CCalculator      | C                       |
 | PyCalculator     | Python                  |
 | SHCalculator     | Bash                    |
@@ -46,7 +45,7 @@ The calculation result also needs to be correct by regular mathematical standard
 | LSPCalculator    | Lisp                    |
 | BASICCalculator  | Basic                   |
 | RCalculator      | R                       |
-| GOCalculator      | Go                      |
+| GOCalculator     | Go                      |
 
 ## Active Calculators
 
@@ -58,4 +57,6 @@ The calculation result also needs to be correct by regular mathematical standard
 
 | Project Name    | Language            |
 |-----------------|---------------------|
-| CSCalculator     | C#                 |
+| CSCalculator    | C#                  |
+| CPPCalculator   | C++                |
+
