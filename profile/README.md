@@ -22,7 +22,6 @@ The calculation result also needs to be correct by regular mathematical standard
 
 | Project Name     | Language                |
 |------------------|-------------------------|
-| CSCalculator     | C#                      |
 | CPPCalculator    | C++                     |
 | CCalculator      | C                       |
 | PyCalculator     | Python                  |
@@ -59,4 +58,4 @@ The calculation result also needs to be correct by regular mathematical standard
 
 | Project Name    | Language            |
 |-----------------|---------------------|
-|                 |                     |
+| CSCalculator     | C#                 |
