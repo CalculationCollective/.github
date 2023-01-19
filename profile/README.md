@@ -65,6 +65,8 @@ The calculation result also needs to be correct by regular mathematical standard
 | COBCalculator    | COBOL                   |
 | CAPNPCalculator  | Cap'n Proto             |
 
+- [ ] https://github.com/CalculationCollective/.github/issues/1
+- [ ] https://github.com/CalculationCollective/.github/issues/7
 ## Completed Calculators
 
 | Project Name    | Language            |
