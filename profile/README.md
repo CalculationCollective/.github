@@ -65,12 +65,6 @@ The calculation result also needs to be correct by regular mathematical standard
 | COBCalculator    | COBOL                   |
 | CAPNPCalculator  | Cap'n Proto             |
 
-## Active Calculators
-
-| Project Name     | Language                |  Developer      |
-|------------------|-------------------------|-----------------|
-| HSCalculator     | Haskell                 | @bergerkevin    |
-
 ## Completed Calculators
 
 | Project Name    | Language            |
