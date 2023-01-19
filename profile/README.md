@@ -59,5 +59,6 @@ The calculation result also needs to be correct by regular mathematical standard
 | CPPCalculator   | C++                 |
 | CCalculator     | C                   |
 | GOCalculator    | Go                  |
+| NJSCalculator   | JavaScrip (Nodejs)  |
 
 
