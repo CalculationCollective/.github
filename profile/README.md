@@ -16,6 +16,8 @@ The following functionality must be given for a calculator to be valid.
 Additionally for a calculator to be considered a working calculator the user needs to be able to input at least 2 numbers and receive the calculation result.
 The calculation result also needs to be correct by regular mathematical standards.
 
+**EVAL IS NOT ALLOWED**
+
 ## Planed Calculators
 
 | Project Name     | Language                |
