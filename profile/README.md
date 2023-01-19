@@ -46,6 +46,7 @@ The calculation result also needs to be correct by regular mathematical standard
 | APLCalculator    | A Programming Language  | 
 | LSPCalculator    | Lisp                    |
 | BASICCalculator  | Basic                   |
+| RCalculator      | R                       |
 
 ## Active Calculators
 
