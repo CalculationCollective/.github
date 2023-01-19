@@ -31,7 +31,6 @@ The calculation result also needs to be correct by regular mathematical standard
 | LUACalculator    | Lua                     |
 | PHPCalculator    | PHP                     |
 | PLCalculator     | Perl                    |
-| RSCalculator     | Rust                    |
 | SWIFTCalculator  | Swift                   |
 | VBCalculator     | Visual Basic            |
 | VBSCalculator    | Visual Basic Script     |
@@ -58,6 +57,7 @@ The calculation result also needs to be correct by regular mathematical standard
 | CCalculator     | C                   |
 | FSCalculator    | F#                  |
 | GOCalculator    | Go                  |
+| RSCalculator    | Rust                |
 | NJSCalculator   | JavaScript (Nodejs) |
 | JSCalculator    | JavaScript          |
  
