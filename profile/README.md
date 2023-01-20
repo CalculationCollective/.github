@@ -42,7 +42,6 @@ The calculation result also needs to be correct by regular mathematical standard
 | AWKCalculator    | AWK                     |
 | ALGOLCalculator  | ALGOL                   |
 | STCalculator     | Smalltalk               |
-| HCCalculator     | HolyC                   |
 | GCODECalculator  | g-code                  |
 | PYXCalculator    | Cython                  |
 | COFFEECalculator | CoffeScript             |
@@ -76,6 +75,7 @@ The calculation result also needs to be correct by regular mathematical standard
 | CCalculator     | C                   |
 | FSCalculator    | F#                  |
 | GOCalculator    | Go                  |
+| HCCalculator    | HolyC               |
 | RSCalculator    | Rust                |
 | NJSCalculator   | JavaScript (Nodejs) |
 | JSCalculator    | JavaScript          |
