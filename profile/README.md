@@ -23,7 +23,6 @@ The calculation result also needs to be correct by regular mathematical standard
 | Project Name     | Language                |
 |------------------|-------------------------|
 | PyCalculator     | Python                  |
-| RBCalculator     | Ruby                    |
 | JAVACalculator   | Java                    |
 | LUACalculator    | Lua                     |
 | PHPCalculator    | PHP                     |
@@ -76,6 +75,7 @@ The calculation result also needs to be correct by regular mathematical standard
 | FSCalculator    | F#                  |
 | GOCalculator    | Go                  |
 | HCCalculator    | HolyC               |
+| RBCalculator    | Ruby                |
 | RSCalculator    | Rust                |
 | NJSCalculator   | JavaScript (Nodejs) |
 | JSCalculator    | JavaScript          |
