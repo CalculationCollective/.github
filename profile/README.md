@@ -24,7 +24,6 @@ The calculation result also needs to be correct by regular mathematical standard
 |------------------|-------------------------|
 | PyCalculator     | Python                  |
 | JAVACalculator   | Java                    |
-| LUACalculator    | Lua                     |
 | PHPCalculator    | PHP                     |
 | PLCalculator     | Perl                    |
 | SWIFTCalculator  | Swift                   |
@@ -75,6 +74,7 @@ The calculation result also needs to be correct by regular mathematical standard
 | FSCalculator    | F#                  |
 | GOCalculator    | Go                  |
 | HCCalculator    | HolyC               |
+| LUACalculator   | Lua                 |
 | RBCalculator    | Ruby                |
 | RSCalculator    | Rust                |
 | NJSCalculator   | JavaScript (Nodejs) |
