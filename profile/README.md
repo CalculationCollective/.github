@@ -61,7 +61,6 @@ The calculation result also needs to be correct by regular mathematical standard
 | BPLCalculator    | Boogie                  |
 | COBCalculator    | COBOL                   |
 | CAPNPCalculator  | Cap'n Proto             |
-| HSCalculator     | Haskell                  |
 
 ## Completed Calculators
 
@@ -73,6 +72,7 @@ The calculation result also needs to be correct by regular mathematical standard
 | CCalculator     | C                   |
 | FSCalculator    | F#                  |
 | GOCalculator    | Go                  |
+| HSCalculator    | Haskell             |
 | HCCalculator    | HolyC               |
 | LUACalculator   | Lua                 |
 | RBCalculator    | Ruby                |
