@@ -61,7 +61,7 @@ The calculation result also needs to be correct by regular mathematical standard
 | BPLCalculator    | Boogie                  |
 | COBCalculator    | COBOL                   |
 | CAPNPCalculator  | Cap'n Proto             |
-| AssemblyCalculator | Assembly              |
+| X86ASMCalculator | Assembly                |
 
 ## Completed Calculators
 
