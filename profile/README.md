@@ -46,7 +46,6 @@ The calculation result also needs to be correct by regular mathematical standard
 | ANGELSCRIPTCalculator | ANGLESCRIPT        |
 | APPLESCRIPTCalculator | Applescript        |
 | ARCCalculator    | ARC                     |
-| AHKCalculator    | AutoHotKey              |
 | BFCalculator     | Beef                    |
 | BECalculator     | Berry                   |
 | BICEPCalculator  | Bicep                   |
@@ -61,6 +60,7 @@ The calculation result also needs to be correct by regular mathematical standard
 
 | Project Name    | Language            |
 |-----------------|---------------------|
+| AHKCalculator   | AutoHotKey          |
 | SHCalculator    | Bash                |
 | CSCalculator    | C#                  |
 | CPPCalculator   | C++                 |
