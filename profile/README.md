@@ -29,7 +29,6 @@ The calculation result also needs to be correct by regular mathematical standard
 | VBCalculator     | Visual Basic            |
 | VBSCalculator    | Visual Basic Script     |
 | SBCalculator     | Small Basic             |
-| PASCalculator    | Pascal                  |
 | APLCalculator    | A Programming Language  | 
 | LSPCalculator    | Lisp                    |
 | BASCalculator    | Basic                   |
@@ -75,6 +74,7 @@ The calculation result also needs to be correct by regular mathematical standard
 | HSCalculator    | Haskell             |
 | HCCalculator    | HolyC               |
 | LUACalculator   | Lua                 |
+| PASCalculator   | Pascal              |
 | PHPCalculator   | PHP                 |
 | RBCalculator    | Ruby                |
 | RSCalculator    | Rust                |
