@@ -46,7 +46,6 @@ The calculation result also needs to be correct by regular mathematical standard
 | CARBONCalculator | Carbon                  |
 | DCalculator      | D                       |
 | ECalculator      | E                       |
-| FCalculator      | Fortran                 |
 | GCalculator      | GRASS                   |
 | ANGELSCRIPTCalculator | ANGLESCRIPT        |
 | APPLESCRIPTCalculator | Applescript        |
@@ -70,6 +69,7 @@ The calculation result also needs to be correct by regular mathematical standard
 | CSCalculator    | C#                  |
 | CPPCalculator   | C++                 |
 | CCalculator     | C                   |
+| F90Calculator   | Fortran             |
 | FSCalculator    | F#                  |
 | GOCalculator    | Go                  |
 | HSCalculator    | Haskell             |
