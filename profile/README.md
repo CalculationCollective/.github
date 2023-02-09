@@ -25,7 +25,6 @@ The calculation result also needs to be correct by regular mathematical standard
 | PyCalculator     | Python                  |
 | JAVACalculator   | Java                    |
 | SWIFTCalculator  | Swift                   |
-| VBCalculator     | Visual Basic            |
 | VBSCalculator    | Visual Basic Script     |
 | SBCalculator     | Small Basic             |
 | APLCalculator    | A Programming Language  | 
@@ -82,6 +81,7 @@ The calculation result also needs to be correct by regular mathematical standard
 | JSCalculator    | JavaScript          |
 | TSCalculator    | TypeScript          |
 | PS1Calculator   | PowerShell          |
+| VBCalculator    | Visual Basic        |
 
 
 
