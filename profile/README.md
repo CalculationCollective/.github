@@ -76,6 +76,7 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 | PLCalculator    | Perl                |
 | RBCalculator    | Ruby                |
 | RSCalculator    | Rust                |
+| SQLCalculator   | SQL (SQLite)        |
 | NJSCalculator   | JavaScript (Nodejs) |
 | JSCalculator    | JavaScript          |
 | TSCalculator    | TypeScript          |
