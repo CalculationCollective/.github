@@ -70,6 +70,7 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 | GOCalculator    | Go                  |
 | HSCalculator    | Haskell             |
 | HCCalculator    | HolyC               |
+| KTCalculator    | Kotlin              |
 | LUACalculator   | Lua                 |
 | PASCalculator   | Pascal              |
 | PHPCalculator   | PHP                 |
