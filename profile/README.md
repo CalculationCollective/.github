@@ -29,7 +29,6 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 | APLCalculator    | A Programming Language  | 
 | LSPCalculator    | Lisp                    |
 | BASCalculator    | Basic                   |
-| RCalculator      | R                       |
 | ASCalculator     | A#                      |
 | ABCCalculator    | ABC                     |
 | AWKCalculator    | AWK                     |
@@ -74,6 +73,7 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 | LUACalculator   | Lua                 |
 | PASCalculator   | Pascal              |
 | PHPCalculator   | PHP                 |
+| RCalculator     | R                   |
 | PLCalculator    | Perl                |
 | RBCalculator    | Ruby                |
 | RSCalculator    | Rust                |
