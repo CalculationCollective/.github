@@ -71,6 +71,7 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 | HCCalculator    | HolyC               |
 | KTCalculator    | Kotlin              |
 | LUACalculator   | Lua                 |
+| MCalculator     | Objective-C         |
 | MLCalculator    | OCaml               |
 | PASCalculator   | Pascal              |
 | PHPCalculator   | PHP                 |
