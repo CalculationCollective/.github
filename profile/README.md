@@ -64,6 +64,7 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 | CSCalculator    | C#                  |
 | CPPCalculator   | C++                 |
 | CCalculator     | C                   |
+| COBCalculator   | COBOL               |
 | F90Calculator   | Fortran             |
 | FSCalculator    | F#                  |
 | GOCalculator    | Go                  |
