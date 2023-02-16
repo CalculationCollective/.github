@@ -81,6 +81,7 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 | RBCalculator    | Ruby                |
 | RSCalculator    | Rust                |
 | SQLCalculator   | SQL (SQLite)        |
+| 8XPCalculator   | Ti-Basic (Ti Program)|
 | NJSCalculator   | JavaScript (Nodejs) |
 | JSCalculator    | JavaScript          |
 | TSCalculator    | TypeScript          |
