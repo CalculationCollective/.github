@@ -28,6 +28,7 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 | CPPCalculator   | C++                 |
 | CCalculator     | C                   |
 | COBCalculator   | COBOL               |
+| LSPCalculator   | Common Lisp         |
 | DARTCalculator  | Dart                |
 | F90Calculator   | Fortran             |
 | FSCalculator    | F#                  |
