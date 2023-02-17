@@ -32,6 +32,7 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 | F90Calculator   | Fortran             |
 | FSCalculator    | F#                  |
 | GOCalculator    | Go                  |
+| GROOVYCalculator| Groovy              |
 | HSCalculator    | Haskell             |
 | HCCalculator    | HolyC               |
 | KTCalculator    | Kotlin              |
