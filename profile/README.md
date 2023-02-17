@@ -18,43 +18,6 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 
 **EVAL IS NOT ALLOWED**
 
-## Planed Calculators
-
-| Project Name     | Language                |
-|------------------|-------------------------|
-| PyCalculator     | Python                  |
-| JAVACalculator   | Java                    |
-| SWIFTCalculator  | Swift                   |
-| SBCalculator     | Small Basic             |
-| APLCalculator    | A Programming Language  | 
-| LSPCalculator    | Lisp                    |
-| BASCalculator    | Basic                   |
-| ASCalculator     | A#                      |
-| ABCCalculator    | ABC                     |
-| AWKCalculator    | AWK                     |
-| ALGOLCalculator  | ALGOL                   |
-| STCalculator     | Smalltalk               |
-| GCODECalculator  | g-code                  |
-| PYXCalculator    | Cython                  |
-| COFFEECalculator | CoffeScript             |
-| CMMCalculator    | C--                     |
-| CARBONCalculator | Carbon                  |
-| DCalculator      | D                       |
-| ECalculator      | E                       |
-| GCalculator      | GRASS                   |
-| ANGELSCRIPTCalculator | ANGLESCRIPT        |
-| APPLESCRIPTCalculator | Applescript        |
-| ARCCalculator    | ARC                     |
-| BFCalculator     | Beef                    |
-| BECalculator     | Berry                   |
-| BICEPCalculator  | Bicep                   |
-| B3DCalculator    | BlitzBasic              |
-| BOOCalculator    | Boo                     |
-| BPLCalculator    | Boogie                  |
-| COBCalculator    | COBOL                   |
-| CAPNPCalculator  | Cap'n Proto             |
-| ASMCalculator    | Assembly                |
-
 ## Completed Calculators
 
 | Project Name    | Language            |
