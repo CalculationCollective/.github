@@ -20,40 +20,41 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 
 ## Completed Calculators
 
-| Project Name    | Language            |
-|-----------------|---------------------|
-| AHKCalculator   | AutoHotKey          |
-| SHCalculator    | Bash                |
-| CSCalculator    | C#                  |
-| CPPCalculator   | C++                 |
-| CCalculator     | C                   |
-| COBCalculator   | COBOL               |
-| LSPCalculator   | Common Lisp         |
-| DARTCalculator  | Dart                |
-| F90Calculator   | Fortran             |
-| FSCalculator    | F#                  |
-| GOCalculator    | Go                  |
-| GROOVYCalculator| Groovy              |
-| HSCalculator    | Haskell             |
-| HCCalculator    | HolyC               |
-| KTCalculator    | Kotlin              |
-| LUACalculator   | Lua                 |
-| MCalculator     | Objective-C         |
-| MLCalculator    | OCaml               |
-| PASCalculator   | Pascal              |
-| PHPCalculator   | PHP                 |
-| RCalculator     | R                   |
-| PLCalculator    | Perl                |
-| RBCalculator    | Ruby                |
-| RSCalculator    | Rust                |
-| SQLCalculator   | SQL (SQLite)        |
+| Project Name    | Language             |
+|-----------------|----------------------|
+| AHKCalculator   | AutoHotKey           |
+| SHCalculator    | Bash                 |
+| BASCalculator   | Basic (FreeBasic)    |
+| CSCalculator    | C#                   |
+| CPPCalculator   | C++                  |
+| CCalculator     | C                    |
+| COBCalculator   | COBOL                |
+| LSPCalculator   | Common Lisp          |
+| DARTCalculator  | Dart                 |
+| F90Calculator   | Fortran              |
+| FSCalculator    | F#                   |
+| GOCalculator    | Go                   |
+| GROOVYCalculator| Groovy               |
+| HSCalculator    | Haskell              |
+| HCCalculator    | HolyC                |
+| KTCalculator    | Kotlin               |
+| LUACalculator   | Lua                  |
+| MCalculator     | Objective-C          |
+| MLCalculator    | OCaml                |
+| PASCalculator   | Pascal               |
+| PHPCalculator   | PHP                  |
+| RCalculator     | R                    |
+| PLCalculator    | Perl                 |
+| RBCalculator    | Ruby                 |
+| RSCalculator    | Rust                 |
+| SQLCalculator   | SQL (SQLite)         |
 | 8XPCalculator   | Ti-Basic (Ti Program)|
-| NJSCalculator   | JavaScript (Nodejs) |
-| JSCalculator    | JavaScript          |
-| TSCalculator    | TypeScript          |
-| PS1Calculator   | PowerShell          |
-| VBCalculator    | Visual Basic        |
-| VBSCalculator   | Visual Basic Script |
+| NJSCalculator   | JavaScript (Nodejs)  |
+| JSCalculator    | JavaScript           |
+| TSCalculator    | TypeScript           |
+| PS1Calculator   | PowerShell           |
+| VBCalculator    | Visual Basic         |
+| VBSCalculator   | Visual Basic Script  |
 
 
 
