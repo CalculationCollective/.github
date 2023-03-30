@@ -54,6 +54,7 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 | JSCalculator    | JavaScript           |
 | TSCalculator    | TypeScript           |
 | PS1Calculator   | PowerShell           |
+| VCalculator     | V                    |
 | VBCalculator    | Visual Basic         |
 | VBSCalculator   | Visual Basic Script  |
 
