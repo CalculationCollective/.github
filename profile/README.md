@@ -37,24 +37,24 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 | GROOVYCalculator| Groovy               |
 | HSCalculator    | Haskell              |
 | HCCalculator    | HolyC                |
+| JAVACalculator  | Java                 |
+| JSCalculator    | JavaScript           |
+| NJSCalculator   | JavaScript (Nodejs)  |
 | KTCalculator    | Kotlin               |
 | LUACalculator   | Lua                  |
 | MCalculator     | Objective-C          |
 | MLCalculator    | OCaml                |
 | PASCalculator   | Pascal               |
-| PHPCalculator   | PHP                  |
-| RCalculator     | R                    |
 | PLCalculator    | Perl                 |
+| PHPCalculator   | PHP                  |
+| PS1Calculator   | PowerShell           |
+| RCalculator     | R                    |
 | RBCalculator    | Ruby                 |
 | RSCalculator    | Rust                 |
 | SCALACalculator | Scala                |
 | SQLCalculator   | SQL (SQLite)         |
 | 8XPCalculator   | Ti-Basic (Ti Program)|
-| JAVACalculator  | Java                 |
-| NJSCalculator   | JavaScript (Nodejs)  |
-| JSCalculator    | JavaScript           |
 | TSCalculator    | TypeScript           |
-| PS1Calculator   | PowerShell           |
 | VCalculator     | V                    |
 | VBCalculator    | Visual Basic         |
 | VBSCalculator   | Visual Basic Script  |
