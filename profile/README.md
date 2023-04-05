@@ -25,6 +25,7 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 | AHKCalculator   | AutoHotKey           |
 | SHCalculator    | Bash                 |
 | BASCalculator   | Basic (FreeBasic)    |
+| BBCalculator    | BlitzBasic (Blitz3D) |
 | CSCalculator    | C#                   |
 | CPPCalculator   | C++                  |
 | CCalculator     | C                    |
