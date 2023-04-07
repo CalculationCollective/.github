@@ -32,6 +32,7 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 | COBCalculator   | COBOL                |
 | COFFEECalculator| Coffeescript         |
 | LSPCalculator   | Common Lisp          |
+| DCalculator     | D                    |
 | DARTCalculator  | Dart                 |
 | F90Calculator   | Fortran              |
 | FSCalculator    | F#                   |
