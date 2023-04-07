@@ -45,12 +45,14 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 | NJSCalculator   | JavaScript (Nodejs)  |
 | KTCalculator    | Kotlin               |
 | LUACalculator   | Lua                  |
+| MATLABCalculator| MATLAB               |
 | MCalculator     | Objective-C          |
 | MLCalculator    | OCaml                |
 | PASCalculator   | Pascal               |
 | PLCalculator    | Perl                 |
 | PHPCalculator   | PHP                  |
 | PS1Calculator   | PowerShell           |
+| PYCalculator    | Python               |
 | RCalculator     | R                    |
 | RBCalculator    | Ruby                 |
 | RSCalculator    | Rust                 |
