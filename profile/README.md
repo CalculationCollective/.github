@@ -66,6 +66,7 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 | SmallBASCalculator | SmallBasic        |
 | SWIFTCalculator | Swift                |
 | SQLCalculator   | SQL (SQLite)         |
+| TCLCalculator   | TCL                  |
 | 8XPCalculator   | Ti-Basic (Ti Program)|
 | TSCalculator    | TypeScript           |
 | VCalculator     | V                    |
