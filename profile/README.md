@@ -35,6 +35,7 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 | PYXCalculator   | Cython               |
 | DCalculator     | D                    |
 | DARTCalculator  | Dart                 |
+| ERLCalculator   | Erlang               |
 | F90Calculator   | Fortran              |
 | FSCalculator    | F#                   |
 | GOCalculator    | Go                   |
