@@ -29,6 +29,7 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 | CSCalculator    | C#                   |
 | CPPCalculator   | C++                  |
 | CCalculator     | C                    |
+| CLJCalculator   | Clojure              |
 | COBCalculator   | COBOL                |
 | COFFEECalculator| Coffeescript         |
 | LSPCalculator   | Common Lisp          |
