@@ -44,6 +44,7 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 | JAVACalculator  | Java                 |
 | JSCalculator    | JavaScript           |
 | NJSCalculator   | JavaScript (Nodejs)  |
+| IPYNBCalculator | Jupiter Notebook     |
 | KTCalculator    | Kotlin               |
 | LUACalculator   | Lua                  |
 | MATLABCalculator| MATLAB               |
