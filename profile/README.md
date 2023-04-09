@@ -18,6 +18,8 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 
 **EVAL IS NOT ALLOWED**
 
+> To learn more about contributing to this project view [CONTRIBUTING.md](https://github.com/CalculationCollective/.github/blob/main/CONTRIBUTING.md).
+
 ## Completed Calculators
 
 | Project Name    | Language             |
