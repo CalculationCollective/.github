@@ -57,6 +57,7 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 | PS1Calculator   | PowerShell           |
 | PYCalculator    | Python               |
 | RCalculator     | R                    |
+| RKTCalculator   | Racket               |
 | RBCalculator    | Ruby                 |
 | RSCalculator    | Rust                 |
 | SCALACalculator | Scala                |
