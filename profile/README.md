@@ -67,6 +67,7 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 | RBCalculator    | Ruby                 |
 | RSCalculator    | Rust                 |
 | SCALACalculator | Scala                |
+| SCMCalculator   | Scheme               |
 | SmallBASCalculator | SmallBasic        |
 | SWIFTCalculator | Swift                |
 | SQLCalculator   | SQL (SQLite)         |
