@@ -25,6 +25,7 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 | Project Name    | Language             |
 |-----------------|----------------------|
 | AHKCalculator   | AutoHotKey           |
+| APLCalculator   | APL                  |
 | SHCalculator    | Bash                 |
 | BASCalculator   | Basic (FreeBasic)    |
 | BFCalculator    | Beef                 |
