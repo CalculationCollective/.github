@@ -29,6 +29,7 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 | SHCalculator    | Bash                 |
 | BASCalculator   | Basic (FreeBasic)    |
 | BFCalculator    | Beef                 |
+| BECalculator    | Berry                |
 | BBCalculator    | BlitzBasic (Blitz3D) |
 | BOOCalculator   | Boo                  |
 | CSCalculator    | C#                   |
