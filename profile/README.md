@@ -78,6 +78,7 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 | [8XPCalculator](https://github.com/CalculationCollective/8XPCalculator)           | Ti-Basic (Ti Program)|
 | [TSCalculator](https://github.com/CalculationCollective/TSCalculator)             | TypeScript           |
 | [VCalculator](https://github.com/CalculationCollective/VCalculator)               | V                    |
+| [VALACalculator](https://github.com/CalculationCollective/VALACalculator)         | Vala                 |
 | [VBCalculator](https://github.com/CalculationCollective/VBCalculator)             | Visual Basic         |
 | [VBSCalculator](https://github.com/CalculationCollective/VBSCalculator)           | Visual Basic Script  |
 | [ZIGCalculator](https://github.com/CalculationCollective/ZIGCalculator)           | ZIG                  |
