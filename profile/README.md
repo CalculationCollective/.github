@@ -24,6 +24,7 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 
 | Project Name                                                                      | Language             |
 |-----------------------------------------------------------------------------------|----------------------|
+| [ADBCalculator](https://github.com/CalculationCollective/ADBCalculator)           | Ada                  |
 | [AHKCalculator](https://github.com/CalculationCollective/AHKCalculator)           | AutoHotKey           |
 | [APLCalculator](https://github.com/CalculationCollective/APLCalculator)           | APL                  |
 | [AWKCalculator](https://github.com/CalculationCollective/AWKCalculator)           | AWK                  |
