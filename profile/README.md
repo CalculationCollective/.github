@@ -59,6 +59,7 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 | [KTCalculator](https://github.com/CalculationCollective/KTCalculator)             | Kotlin               |
 | [LUACalculator](https://github.com/CalculationCollective/LUACalculator)           | Lua                  |
 | [MATLABCalculator](https://github.com/CalculationCollective/MATLABCalculator)     | MATLAB               |
+| [NUCalculator](https://github.com/CalculationCollective/NUCalculator)             | Nushell              |
 | [MCalculator](https://github.com/CalculationCollective/MCalculator)               | Objective-C          |
 | [MLCalculator](https://github.com/CalculationCollective/MLCalculator)             | OCaml                |
 | [PASCalculator](https://github.com/CalculationCollective/PASCalculator)           | Pascal               |
