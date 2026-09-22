@@ -57,6 +57,7 @@ The calculation result also needs to be correct. (floating point inaccuracy is f
 | [NJSCalculator](https://github.com/CalculationCollective/NJSCalculator)           | JavaScript (Nodejs)  |
 | [IPYNBCalculator](https://github.com/CalculationCollective/IPYNBCalculator)       | Jupyter Notebook     |
 | [KTCalculator](https://github.com/CalculationCollective/KTCalculator)             | Kotlin               |
+| [LOLCalculator](https://github.com/CalculationCollective/LOLCalculator)           | LOLCODE              |
 | [LUACalculator](https://github.com/CalculationCollective/LUACalculator)           | Lua                  |
 | [MATLABCalculator](https://github.com/CalculationCollective/MATLABCalculator)     | MATLAB               |
 | [NUCalculator](https://github.com/CalculationCollective/NUCalculator)             | Nushell              |
